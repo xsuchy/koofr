@@ -7,7 +7,7 @@
 
 Name:    koofr
 Version: 0
-Release: 0.%{hash}%{?dist}.1
+Release: 0.%{hash}%{?dist}.2
 Summary: Hybrid storage cloud 
 
 License: Proprietary
@@ -80,5 +80,8 @@ gtk-update-icon-cache %{_datadir}/icons/hicolor &>/dev/null || :
 
 
 %changelog
+* Mon Oct 19 2020 Miroslav Suchý <msuchy@redhat.com> 0-0.0db1c5f.2
+- initial package
+
 
 
