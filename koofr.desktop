@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Koofr
+GenericName=Hybrid storage cloud
+Exec=/usr/bin/koofr
+Terminal=false
+Type=Application
+Icon=/usr/libexec/icon.png
+Categories=Network;FileTransfer
